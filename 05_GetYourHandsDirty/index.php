@@ -4,9 +4,9 @@
 	define("TITLE", "Variables and Constants");
 	
 	// Your Variables
-	$my_name	= "Brad";
+	$my_name	= "Andrew";
 	$fav_colour	= "Blue";
-	$birth_year	= 1988;
+	$birth_year	= 1994;
 	
 	/*
 		When using the date() method, PHP has to know the timezone where the server resides,
